@@ -1,0 +1,3 @@
+Practical No. 01
+
+Aim: Awareness of Google Colab and VS Code to implement a Python program to find a Magic Square of a given dimension.
