@@ -11,6 +11,7 @@ This repository contains comprehensive AI practical programs and lab exercises c
 ```
 ai-practicals/
 ├── Practical-01/
+├── Practical-02/
 └── README.md
 ```
 

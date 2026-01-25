@@ -1,0 +1,5 @@
+Practical No. 02
+
+Aim: Apply the concept of production rules to solve the Water Jug Problem.
+(Given two jugs of 4-gallon and 3-gallon capacity, an unlimited water source,
+and the ground to pour water. How can you get exactly 2 gallons in the 4-gallon jug?)
