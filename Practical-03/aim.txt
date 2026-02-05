@@ -1,0 +1,3 @@
+Practical No. 03
+
+Aim: Analyze a suitable technique to build a Tic-Tac-Toe Game Engine with an AI Player in Python.
