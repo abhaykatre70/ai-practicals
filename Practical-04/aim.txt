@@ -1,0 +1,5 @@
+Practical No. 04
+
+Aim: Make use of the A* Algorithm to find the goal state (shortest path cost) in a given graph.
+Also apply Breadth First Search (BFS) to find the goal state and compare the performance
+of both algorithms in terms of time taken.
