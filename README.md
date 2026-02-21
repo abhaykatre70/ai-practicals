@@ -14,6 +14,7 @@ ai-practicals/
 ├── Practical-02/
 ├── Practical-03/
 ├── Practical-04/
+├── Practical-05/
 └── README.md
 ```
 

@@ -1,0 +1,3 @@
+Practical No. 05
+
+Aim: Analyze a suitable technique to implement a Cryptarithmetic Puzzle and implement the same.
