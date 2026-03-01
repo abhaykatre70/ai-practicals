@@ -1,0 +1,3 @@
+Practical No. 06
+
+Aim: Implement the concept of Alpha-Beta Pruning for optimization in game development.
