@@ -1,0 +1,3 @@
+Practical No. 07
+
+Aim: Write a Prolog Program to demonstrate the concept of Family relationship.
