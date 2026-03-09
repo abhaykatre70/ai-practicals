@@ -1,0 +1,3 @@
+Practical No. 08
+
+Aim: Demonstrate the concept of Semantic Network on imputed Predicate Logic to represent knowledge.
